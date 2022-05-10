@@ -2,7 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-import leaf from "../../Assets/Projects/leaf.png";
+import foodrecipe from "../../Assets/Projects/foodrecipe.png";
 import emotion from "../../Assets/Projects/emotion.jpeg";
 import todo from "../../Assets/Projects/todo.png";
 import crypto from "../../Assets/Projects/crypto.png";
@@ -53,11 +53,11 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={leaf}
+              imgPath={foodrecipe}
               isBlog={false}
-              title="Plant AI"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
-              link="https://github.com/soumyajit4419/Plant_AI"
+              title="Food Recipe App"
+              description="Food recipe search WebApp created by me using ReactJS and Bootstrap. where you can search for any recipe. our app fetched data according to your search, from an API and provide you the best matched result."
+              link="https://ashish-ko.github.io/react-recipe/"
             />
           </Col>
 
