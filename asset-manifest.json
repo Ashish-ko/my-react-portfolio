@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/my-react-portfolio/static/css/main.e9d32312.css",
-    "main.js": "/my-react-portfolio/static/js/main.25ef5fd1.js",
+    "main.js": "/my-react-portfolio/static/js/main.d7a7ffb8.js",
     "static/media/portfolio.png": "/my-react-portfolio/static/media/portfolio.249721db185c89abed5e.png",
     "static/media/crypto.png": "/my-react-portfolio/static/media/crypto.133d304622dad0b37e77.png",
+    "static/media/foodrecipe.png": "/my-react-portfolio/static/media/foodrecipe.91285260c6d319e5cdbd.png",
     "static/media/todo.png": "/my-react-portfolio/static/media/todo.a63156568876c0227f58.png",
-    "static/media/leaf.png": "/my-react-portfolio/static/media/leaf.4c15d6eb3fc75cfef85b.png",
     "static/media/Ashish-Resume.pdf": "/my-react-portfolio/static/media/Ashish-Resume.93c01a8b8a53a5ec8407.pdf",
     "static/media/home-main.svg": "/my-react-portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/my-react-portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
@@ -16,10 +16,10 @@
     "static/media/pre.svg": "/my-react-portfolio/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/my-react-portfolio/index.html",
     "main.e9d32312.css.map": "/my-react-portfolio/static/css/main.e9d32312.css.map",
-    "main.25ef5fd1.js.map": "/my-react-portfolio/static/js/main.25ef5fd1.js.map"
+    "main.d7a7ffb8.js.map": "/my-react-portfolio/static/js/main.d7a7ffb8.js.map"
   },
   "entrypoints": [
     "static/css/main.e9d32312.css",
-    "static/js/main.25ef5fd1.js"
+    "static/js/main.d7a7ffb8.js"
   ]
 }
