@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-react-portfolio/static/css/main.e9d32312.css",
-    "main.js": "/my-react-portfolio/static/js/main.d7a7ffb8.js",
+    "main.js": "/my-react-portfolio/static/js/main.f5517d95.js",
     "static/media/portfolio.png": "/my-react-portfolio/static/media/portfolio.249721db185c89abed5e.png",
     "static/media/crypto.png": "/my-react-portfolio/static/media/crypto.133d304622dad0b37e77.png",
     "static/media/foodrecipe.png": "/my-react-portfolio/static/media/foodrecipe.91285260c6d319e5cdbd.png",
@@ -9,17 +9,17 @@
     "static/media/Ashish-Resume.pdf": "/my-react-portfolio/static/media/Ashish-Resume.93c01a8b8a53a5ec8407.pdf",
     "static/media/home-main.svg": "/my-react-portfolio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/my-react-portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
-    "static/media/suicide.png": "/my-react-portfolio/static/media/suicide.b72f1f9ffeb4775a7803.png",
     "static/media/home-bg.jpg": "/my-react-portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/calculator.JPG": "/my-react-portfolio/static/media/calculator.0a6cfba4c9979cd2a0e9.JPG",
     "static/media/emotion.jpeg": "/my-react-portfolio/static/media/emotion.e92e314a236f65bb89af.jpeg",
     "static/media/avatar.svg": "/my-react-portfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
     "static/media/pre.svg": "/my-react-portfolio/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/my-react-portfolio/index.html",
     "main.e9d32312.css.map": "/my-react-portfolio/static/css/main.e9d32312.css.map",
-    "main.d7a7ffb8.js.map": "/my-react-portfolio/static/js/main.d7a7ffb8.js.map"
+    "main.f5517d95.js.map": "/my-react-portfolio/static/js/main.f5517d95.js.map"
   },
   "entrypoints": [
     "static/css/main.e9d32312.css",
-    "static/js/main.d7a7ffb8.js"
+    "static/js/main.f5517d95.js"
   ]
 }
